@@ -1,0 +1,14 @@
+.successMessageSection {
+    margin-top: 10px;
+    display: flex;
+    flex: 0.7;
+    flex-direction: column;
+    width: 80%;
+    text-align: center;
+}
+
+.successText {
+    color: #2B45D4;
+    font-size: 7em;
+    flex: 0.7;
+}
