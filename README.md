@@ -1,8 +1,13 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+The application allows user to enter personal details. User can also view the detail and edit them as and when needed in the same session.
 
 ## Available Scripts
 
 In the project directory, you can run:
+
+## `npm install`
+
+Please first run npm install script in order to load all the dependencies of the project.
+You can run the application by running below command.
 
 ### `yarn start`
 
